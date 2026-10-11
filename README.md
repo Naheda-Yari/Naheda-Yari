@@ -13,11 +13,7 @@
 Computer Science student at UBC Okanagan passionate about software engineering, web development, and creating user-centred applications.
 
 🔭 &nbsp;I'm currently working on **Small backend projects using Java**  
-🌱 &nbsp;I'm currently learning **Java**  
-👯 &nbsp;I'm looking to collaborate on **Beginner-friendly open-source software and web design projects**  
-💬 &nbsp;Ask me about **Software Engineering coursework, event coordination, or my experience at UBC**  
-😄 &nbsp;Pronouns: **She/Her**  
-⚡ &nbsp;Fun fact: **I've studied computer science across three different international universities.**
+🌱 &nbsp;I'm currently learning **Java**
 
 ### 🛠️ Tech Stack
 
